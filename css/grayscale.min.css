@@ -31,7 +31,7 @@
 	padding: 0;
 	background: rgba(255,255,255, .7);
 	border-bottom: 1px solid rgba(255,255,255,.3)
-}}.intro{display:table;height:auto;padding:100px 0;text-align:center;color:#fff;-webkit-background-size:cover;background:url(../img/Files/DSC_0361.jpg) bottom center no-repeat #000;-moz-background-size:cover;background-size:cover;-o-background-size:cover}.intro .intro-body{display:table-cell;vertical-align:middle}.intro .intro-body .brand-heading{font-size:40px}.intro .intro-body .intro-text{font-size:18px}@media (min-width:768px){.intro{height:100%;padding:0}.intro .intro-body .brand-heading{
+}}.intro{display:table;height:auto;padding:100px 0;text-align:center;color:#fff;-webkit-background-size:cover;background:url(../img/files/DSC_0361.jpg) bottom center no-repeat #000;-moz-background-size:cover;background-size:cover;-o-background-size:cover}.intro .intro-body{display:table-cell;vertical-align:middle}.intro .intro-body .brand-heading{font-size:40px}.intro .intro-body .intro-text{font-size:18px}@media (min-width:768px){.intro{height:100%;padding:0}.intro .intro-body .brand-heading{
 	font-size: 100px;
 	color: #333;
 }.intro .intro-body .intro-text{
